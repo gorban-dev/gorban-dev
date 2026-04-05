@@ -1,10 +1,16 @@
-# Привет!👋
+# Hi, I'm Sergey 👋
 
-Я Android-разработчик из компании [Apteka.ru](https://apteka.ru/) !
-Моя цель - стать экспертом Google Developer Expert и расширить свои знания в области мобильной разработки. Я работаю в компании на протяжении нескольких лет и получаю ценный опыт в разработке качественного программного обеспечения.
+Android Lead Engineer with a focus on Kotlin, Jetpack Compose, KMP, mobile architecture, and developer tooling.
 
-Я не только занимаюсь мобильной разработкой, но и люблю экстремальные виды спорта, такие как сноуборд🏂. Я убежден, что активный образ жизни помогает мне сохранять баланс и энергию для творческой работы. Кроме того, я обожаю путешествовать по всему миру 🌴, чтобы получать новые знания и вдохновение для своих проектов.
+I’m interested in building scalable mobile products, improving engineering workflows, and exploring AI-assisted development.
 
-Стремление к совершенству и любовь к новым вызовам - это то, что делает меня особенным разработчиком. Я всегда готов расширять свои знания и навыки, чтобы достичь новых высот. Я уверен, что моя любовь к новым вызовам и жажда знаний помогут мне расти как профессионал и как личность.
+## Currently interested in
+- Android architecture and platform engineering
+- Jetpack Compose and Kotlin Multiplatform
+- Build optimization and developer experience
+- AI tools, agents, and workflow automation
 
-Если у вас есть какие-либо вопросы или предложения, я буду рад услышать их. Более подробно на [Моей странице](https://gorban.dev/).
+## Links
+- LinkedIn: https://www.linkedin.com/in/sergey-gorban-dev/
+- Website: https://gorban.dev/
+
